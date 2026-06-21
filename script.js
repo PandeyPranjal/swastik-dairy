@@ -1,6 +1,6 @@
 // Central config for WhatsApp details (easy to update later).
 const CONFIG = {
-  whatsappNumber: "8354849394",
+  whatsappNumber: "7985499394",
   defaultOrderMessage: "Hello Swastik Dairy, I want to order fresh milk."
 };
 

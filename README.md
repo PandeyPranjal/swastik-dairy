@@ -11,7 +11,7 @@ Official website for Swastik Dairy — a dairy farm business.
 HTML5, CSS3, JavaScript
 
 ## Live site
-[add once deployed]
+[https://swastikdairy.netlify.app/]
 
 ## Setup
 1. Clone this repo
